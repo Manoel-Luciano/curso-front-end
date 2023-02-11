@@ -1,0 +1,76 @@
+body {
+    background: #202124;
+    margin: 0px;
+}
+
+header {
+    text-align: center;
+    color: #00cccc;
+    background-color: purple;
+    font-size: 40px;
+    padding: 20px 0;
+    border: 0;
+}
+
+.divisoes {
+    background: #202124;
+    margin-inline: 190px;
+    border-radius: 10px;
+}
+
+.titulos {
+    text-align: center;
+    color: #00cccc;
+    font-size: 35px;
+}
+
+p strong {
+    color: #00cccc;
+}
+
+p    {
+    font-size: 20px;
+    text-align: center;
+    color: #dbd9d9;
+}
+
+.projetos {
+    position: absolute;
+    color: white;
+    left: 300px;
+}
+
+.lista {
+    position: relative;
+    margin-left: 180px;
+}
+
+.itens {
+    font-style: italic;
+    font-size: 20px;
+    color:  #dbd9d9;
+}
+
+.beneficios {
+    font-size: 30px;
+    color: #00cccc;
+}
+
+
+table {
+    text-align: center;
+    position: relative;
+    margin-left: 520px;
+    font-size: 25px;
+    color: purple;
+}
+
+a {
+    text-decoration: none;
+    color: aqua;
+}
+
+a:hover {
+    transition: 0.5s;
+    color: purple;
+}
