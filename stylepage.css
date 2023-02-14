@@ -53,7 +53,3 @@ p {
         transition: 2s;
         background-color: #ff69b4;
 }
-
-body::before {
-    background-color: rgba(0, 0, 0, 0.2);
-}
